@@ -1,0 +1,5 @@
+playtime,SessionsPerWeek,win_loss_ratio,item_collection_rate,skill_score,spending_metric,Persona,PlayerCount,Percentage (%)
+7.41,6.5,7.6,3.67,67.55,0.0,Cluster 0: Casual Players,15837,39.56
+16.31,10.3,5.4,2.39,66.46,1.0,Cluster 2: Competitive Whales / High-Spenders,7280,18.18
+26.78,14.59,2.91,1.0,63.85,0.0,Cluster 1: Hardcore Grinders,13443,33.58
+0.84,1.47,18.85,22.28,79.03,0.21,Cluster 3: Churn Risk / Attrition,3474,8.68
