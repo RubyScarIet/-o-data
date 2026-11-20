@@ -11,6 +11,9 @@ Dự án ứng dụng các kỹ thuật học máy không giám sát (**Agglomer
 topic_12_gamer_clustering/
 ├── data/
 │   └── online_gaming_behavior_dataset.csv     # Dữ liệu gốc 40.034 bản ghi
+├── reports/                                   # BÁO CÁO BÀI TẬP LỚN CHÍNH THỨC
+│   ├── Topic_12_Bao_Cao_Data_Mining.docx      # Bản Word chuẩn nộp đồ án (đầy đủ bảng & ảnh)
+│   └── Topic_12_Bao_Cao_Data_Mining.md        # Bản Markdown đồng bộ nội dung
 ├── k3_model/                                  # PHÂN CỤM MÔ HÌNH K = 3
 │   ├── code/
 │   │   └── playstyle_pipeline.py              # Script chạy trọn vẹn pipeline K=3
